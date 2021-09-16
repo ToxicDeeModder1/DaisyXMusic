@@ -18,7 +18,7 @@ from DaisyXMusic.config import ASSISTANT_NAME, PROJECT_NAME
 
 
 class Messages:
-    START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+    START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🤖 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\🚀 Developed By @ToxicDeeModder\n\n✅ Send me /help for more info."
     HELP_MSG = [
         ".",
         f"""
@@ -29,7 +29,7 @@ class Messages:
 ⚪️ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions**
 """,
         f"""
-**Setting up**
+**Setting up\n\nDeveloped By @ToxicDeeModder**
 
 1) Make bot admin (Group and in channel if use cplay)
 2) Start a voice chat
